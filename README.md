@@ -1,7 +1,7 @@
 # feat_software
 Feedback &amp; Evaluation via Automated Tests (FEAT)
 
-This FEAT software takes the configuration of a function, a properly implemented function, and a number of parameters before generating test cases, testing an inputted experimental function against those cases, and giving both summative and formative assessment on the results. It can (and has been) used to grade functionality of student functions in introductory computer science classes.
+This FEAT software takes the configuration of a function, an implementation of that function, and a number of parameters, before generating test cases and testing the inputted function against those cases with respect to the configuration. It then gives both summative and formative assessment on the results. It has been used to grade functionality of student functions in introductory computer science classes for first-year students.
 
 -- Methodology --
 
